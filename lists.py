@@ -26,7 +26,6 @@ new_list.append('six')
 new_list.pop()
 
 print(new_list)
-`
 popped_item = new_list.pop()
 print(popped_item)
 
