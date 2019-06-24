@@ -18,3 +18,4 @@ t = ('a', 'a', 'b')
 print(t.count('a'))
 print(t.index('a'))
 print(t.index('b'))
+
