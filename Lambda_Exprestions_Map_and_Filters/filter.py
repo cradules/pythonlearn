@@ -5,3 +5,7 @@ def check_even(num):
 mynums = [1, 2, 3, 4, 5, 6]
 
 print(list(filter(check_even, mynums)))
+
+
+for y in filter(check_even, mynums):
+    print(y)
